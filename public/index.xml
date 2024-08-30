@@ -2,28 +2,36 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Y2K Wallpaper designed on ideate.xyz on Y2K Wallpaper Art</title>
-    <link>https://y2kwallpaper.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Y2K Wallpaper designed on ideate.xyz on Y2K Wallpaper Art</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://y2kwallpaper.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mobile</title>
-      <link>https://y2kwallpaper.com/mobile/</link>
+      <link>http://localhost:1313/mobile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://y2kwallpaper.com/mobile/</guid><media:content url="https://y2kwallpaper.com/mobile/y2kwallpaper%20%281%29_hu14746900285108468205.jpeg" type="image/jpeg"/>
+      <guid>http://localhost:1313/mobile/</guid><media:content url="http://localhost:1313/mobile/y2kwallpaper%20%281%29_hu14746900285108468205.jpeg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://y2kwallpaper.com/mobile/y2kwallpaper%20%281%29_hu14746900285108468205.jpeg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/mobile/y2kwallpaper%20%281%29_hu14746900285108468205.jpeg&quot; /&gt;
           &lt;p&gt;Y2K inspired wallpaper and art for mobile phones. All Y2K aesthetic artworks designed with [ideate.xyz](https://ideate.xyz)&lt;/p&gt;
         </description></item>
     <item>
       <title>Desktop</title>
-      <link>https://y2kwallpaper.com/desktop/</link>
+      <link>http://localhost:1313/desktop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://y2kwallpaper.com/desktop/</guid><description>Y2K inspired wallpaper and art for desktop. All Y2K aesthetic artworks designed with [ideate.xyz](https://ideate.xyz)</description></item>
+      <guid>http://localhost:1313/desktop/</guid><media:content url="http://localhost:1313/desktop/y2kwallpaper-desktop%20%281%29_hu10872903430235002597.jpeg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/desktop/y2kwallpaper-desktop%20%281%29_hu10872903430235002597.jpeg&quot; /&gt;
+          &lt;p&gt;Y2K inspired wallpaper and art for desktop. All Y2K aesthetic artworks designed with [ideate.xyz](https://ideate.xyz)&lt;/p&gt;
+        </description></item>
     <item>
       <title>Square</title>
-      <link>https://y2kwallpaper.com/square/</link>
+      <link>http://localhost:1313/square/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://y2kwallpaper.com/square/</guid><description>Y2K inspired wallpaper and art in square format. All Y2K aesthetic designed with [ideate.xyz](https://ideate.xyz)</description></item>
+      <guid>http://localhost:1313/square/</guid><media:content url="http://localhost:1313/square/y2kwallpaper-square%20%2827%29_hu14682882892444887073.webp" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/square/y2kwallpaper-square%20%2827%29_hu14682882892444887073.webp&quot; /&gt;
+          &lt;p&gt;Y2K inspired wallpaper and art in square format. All Y2K aesthetic designed with [ideate.xyz](https://ideate.xyz)&lt;/p&gt;
+        </description></item>
   </channel>
 </rss>
