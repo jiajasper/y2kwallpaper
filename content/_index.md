@@ -1,7 +1,7 @@
 ---
-description: Y2K Wallpapers are free to be downloaded for personal use. No commercial use or re-distribution allowed. If you want to create your own wallpapers with AI - Try ideate.xyz to create your own wallpapers with no restrictions.
+description: Y2K Wallpapers are free to be downloaded for any use. If you want to create your own wallpapers with AI - Try ideate.xyz to create your own wallpapers with no restrictions.
 #lastmod: 2023-07-05
-title: Y2K Wallpaper designed on ideate.xyz
+title: Y2K Wallpaper designed on ideate.xyz - update weekly!
 featured_image: feature.jpeg # default: first image in this directory
 # featured_image on the home page is used for OpenGraph cards, etc.
 menus:

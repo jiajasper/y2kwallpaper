@@ -13,4 +13,4 @@ This site is made to curate cool Y2K aesthetic inspired wallpapers for both mobi
 
 All designs we share here are created with [ideate.xyz](https://ideate.xyz) - an AI design co-pilot. 
 
-You can freely download our wallpapers and use it personally. However, please do not use our wallpapers for commercial use and as well as re-distributed as your own. If 
+You can freely download our wallpapers and use it however you want!
